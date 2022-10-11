@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2195d1e1-fa38-4b15-8fa4-82d2b017e6ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Newjavalessons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/packages/Praciceforscanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/packages/Practiceonarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/packages/Tutorial5InputandOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/packages/Tutorial6Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/packages/ifandifelsetutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/packages/primitives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/packages/primitivesandobjects.java" afterDir="false" />
-    </list>
+    <list default="true" id="2195d1e1-fa38-4b15-8fa4-82d2b017e6ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +68,7 @@
       <workItem from="1665138431732" duration="46000" />
       <workItem from="1665393845795" duration="4876000" />
       <workItem from="1665478981230" duration="4952000" />
-      <workItem from="1665492614030" duration="1471000" />
+      <workItem from="1665492614030" duration="2274000" />
     </task>
     <servers />
   </component>
